@@ -11,6 +11,7 @@ A Python-based simulator for generating synthetic multi-band astronomical images
     
     $ cd /path/to/workspace
     $ git clone git@github.com:m-faezi/Multi-Spectral-Sim.git
+    $ cd Multi-Spectral-Sim
     $ python -m venv ./venvs/Multi-Spectral-Sim
     $ source ./venvs/Multi-Spectral-Sim/bin/activate
     $ pip install -r requirements.txt
