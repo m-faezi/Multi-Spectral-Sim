@@ -4,7 +4,7 @@
 
 A Python-based simulator for generating synthetic multi-band astronomical images to evaluate and validate multi-spectral source segmentation algorithms, particularly the MMTO ([Faezi et al.](#1)).
 
-
+The simulation mimics actual multi-band observations of a specific section of the sky and includes various sources (stars, galaxies, and background galaxies), each with its own unique parameters, such as surface brightness, flux per unit solid angle of the image, effective radius, and axis ratio. To each frame, different Gaussian and Poissonian noises were added.
 
 ### Installation
 
