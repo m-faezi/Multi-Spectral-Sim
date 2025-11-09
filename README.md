@@ -13,7 +13,7 @@ The simulation mimics actual multi-band observations of a specific section of th
     <img src="./assets/MMTO_no_merge.png" alt="MMTO-no-merge" width="31.33%">
     <img src="./assets/MMTO_full_merge.png" alt="MMTO-full-merge" width="31.33%">
     <br>
-    <em>Top row: Three-band astronomical image simulation with different parameters of surface brightness, effective radius, axis ratio, and noise distribution. Each frame have a size of 4,000 pixels squared.</em>
+    <em>Top row: Three-band astronomical image simulation with different parameters of surface brightness, effective radius, axis ratio, and noise distribution. Each frame has a size of 4,000^2 pixels.</em>
         <br>Bottom row: MMTO multi-band segmentation map output, where the 'co_sim' is set to (left panel) a value greater than one or less than zero, and (right panel) the optimal value (0.94 for this data set).<br>
     <a href="https://github.com/m-faezi/MMTO">
         <img src="https://img.shields.io/badge/MMTO-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="MMTO GitHub">
