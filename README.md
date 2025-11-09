@@ -6,6 +6,16 @@ A Python-based simulator for generating synthetic multi-band astronomical images
 
 The simulation mimics actual multi-band observations of a specific section of the sky and includes various sources (stars, galaxies, and background galaxies), each with its own unique parameters, such as surface brightness, flux per unit solid angle of the image, effective radius, and axis ratio. To each frame, different Gaussian and Poissonian noises were added.
 
+<p align="center">
+    <img src="./assets/sim_1.png" alt="first band" width="31.33%">
+    <img src="./assets/sim_2.png" alt="second band" width="31.33%">
+    <img src="./assets/sim_3.png" alt="third band" width="31.33%">
+    <img src="./assets/MMTO_no_merge.png" alt="MMTO-no-merge" width="31.33%">
+    <img src="./assets/MMTO_full_merge.png" alt="MMTO-full-merge" width="31.33%">
+    <br>
+    <em>Three-band astronomical image simulation with different parameters of surface brightness, effective radius, axis ratio, and noise distribution. Each frame have a size of 4,000 pixels squared.</em>
+</p>
+
 ### Installation
 
     
